@@ -1,2 +1,10 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-/* Your CSS Code here. */
+.item {
+  flex: 0 0 auto;
+  margin: 5px;
+}
